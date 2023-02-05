@@ -13,7 +13,7 @@ The below diagram explains the basic working of our project, staring from captur
 
 WORKFLOW DIAGRAM:
 
-![image](https://user-images.githubusercontent.com/124515180/216836195-53e16934-9893-436f-bad2-acee141c62c2.png)
+![image](https://user-images.githubusercontent.com/124515180/216836308-b6d0088c-ea37-455e-a72d-465491df469f.png)
 
 
 Hardware:
